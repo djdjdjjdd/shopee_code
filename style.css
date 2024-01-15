@@ -1,0 +1,234 @@
+* {
+    display: inline-block;
+}
+
+.shopee-progress-bar {
+    text-align: center;
+
+    height: 10em;
+    text-decoration: none;
+    background: linear-gradient(219deg, #f53d2d, #f63);
+}
+
+.survey-form .survey-form-name {
+    tex
+}
+
+.survey-form {
+    height: 70%;
+    width: ;
+}
+
+.survey-form .survey-form-input {
+    width: 800px;
+    height: 40px;
+    overflow: auto;
+    border: none;
+    border-radius: 5px;
+}
+
+.survey-form .survey-form-search {}
+
+* {
+    box-sizing: border-box;
+}
+
+.slideshow-container {
+    max-width: 100%;
+    position: relative;
+    margin: auto;
+}
+
+.slideshow-container .mySlide {
+    display: none;
+
+}
+
+.pre .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 22px;
+    color: mediumvioletred;
+    font-size: 22px;
+    transition: 0.6s;
+    border-radius: 2px;
+
+}
+
+a {
+    text-decoration: none;
+    color: burlywood;
+}
+
+.next {
+    float: left;
+    border-radius: 3px 0 0 3px;
+}
+
+.pre:hover,
+.next:hover {
+    background-color: rgba(0, 1, 1, 0.5);
+}
+
+.text {
+    color: aquamarine;
+    font-size: 15px;
+    padding: 8px 12px;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+.number-text {
+    color: blanchedalmond;
+    position: absolute;
+    font-size: 6px;
+    padding: 8px 12px;
+    top: 0;
+}
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: blueviolet;
+    display: inline-block;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.dot :hover {
+    background-color: #e3463f;
+}
+
+.eCaznz {
+    display: flex;
+    text-align: center;
+    margin: 10px auto 0;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: #fff;
+    width: 1200px;
+}
+
+
+
+
+
+._2wizxo{ 
+    display: flex;
+    text-overflow: ellipsis;
+    font-size: .8125rem;
+    line-height: .875rem; 
+    overflow: hidden;
+    max-width: 150px;
+    margin-bottom: 8px;
+    overflow: hidden;
+}
+._3Jjuff ._0RpQWz{
+    
+    
+}
+
+
+
+
+
+.eCaznz a{
+    color:#fff;
+    width: 100px;
+    height: 108px;
+}
+.section-below-the-fold{
+    width: 1200px;
+    height: 60.8px;
+    margin-left: 400px;
+    border-bottom: 1px solid rgba(0,0,0, 05);
+    padding: 0 1.25rem;
+}
+.container {
+    
+    width: 1200px;
+    text-align: center;
+}
+.container .shopee-header-section__header{
+    overflow: hidden;
+    width: 1200px;
+    height: 302px;
+}
+.container .shopee-header-section__header .image-list-item .list-team-top{
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+}
+.g3RFjs{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.34%;
+}
+
+.col-8 {
+    width: 66.67%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.34%;
+}
+
+.col-11 {
+    width: 91.67%;
+}
+
+.col-12 {
+    width: 100%;
+}
